@@ -6,7 +6,7 @@ export const POSTS = [
         user: USERS[0].user,
         likes: 7870,
         caption: 'Train Ride to Hogwarts.',
-        profilePicture: USERS[0].iamge,
+        profilePicture: USERS[0].image,
         comments: [
             {
                 user: 'theInno',
@@ -23,7 +23,7 @@ export const POSTS = [
         user: USERS[0].user,
         likes: 7870,
         caption: 'Train Ride to Hogwarts.',
-        profilePicture: USERS[0].iamge,
+        profilePicture: USERS[0].image,
         comments: [
             {
                 user: 'theInno',
@@ -40,7 +40,7 @@ export const POSTS = [
         user: USERS[0].user,
         likes: 7870,
         caption: 'Train Ride to Hogwarts.',
-        profilePicture: USERS[0].iamge,
+        profilePicture: USERS[0].image,
         comments: [
             {
                 user: 'theInno',
@@ -57,7 +57,7 @@ export const POSTS = [
         user: USERS[0].user,
         likes: 7870,
         caption: 'Train Ride to Hogwarts.',
-        profilePicture: USERS[0].iamge,
+        profilePicture: USERS[0].image,
         comments: [
             {
                 user: 'theInno',
